@@ -1,0 +1,4 @@
+arrival_status,reviewed_order_count,avg_review_score,avg_delivery_time_days,avg_delivery_delay_days
+Early,88163,4.29,10.81,-13.71
+Late,6381,2.27,33.78,10.52
+On Time,1280,4.04,19.14,0.0
