@@ -222,7 +222,7 @@ olist-delivery-customer-satisfaction/
 │       └── monthly_delivery_review_summary.csv
 │
 ├── dashboard/
-│   ├── olist_delivery_dashboard.pbix
+│   ├── olist_customer_satisfaction_dashboard.pbix
 │   ├── olist_customer_satisfaction_dashboard.pdf
 │   │
 │   └── images/
